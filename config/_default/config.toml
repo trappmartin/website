@@ -13,7 +13,7 @@ enableEmoji = false
 enableRobotsTXT = true
 
 # Enable Disqus
-#disqusShortname = ""
+disqusShortname = "trappmartin"
 
 # Google Analytics
 #googleAnalytics = "UA-123-45"
