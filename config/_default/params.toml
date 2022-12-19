@@ -60,10 +60,10 @@ icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/trappmartin"
 
-[[socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/martin_trapp"
+# [[socialIcons]]
+# icon = "fab fa-twitter"
+# title = "Twitter"
+# url = "https://twitter.com/martin_trapp"
 
 [[socialIcons]]
 icon = "fab fa-mastodon"
