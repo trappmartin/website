@@ -8,6 +8,23 @@
   >
     <div class="post__content">
       {{ .Content }}
+
+      <h3> Selected Publications </h3>
+      <ul>
+      {{ range .Site.Data.publications.papers }}
+        {{ $Y := .year }}
+        {{ range .publications }}
+          {{ if isset . "selected" }}
+            {{ $a := .authors }}
+            {{ $a := replace $a "M. Trapp" "<u>M. Trapp</u>" }}
+            <li> {{ $a | markdownify }}. <a href={{ .pdf }}>{{ .title | markdownify }}</a>{{ if isset . "venue" }}, <i>{{ .venue  }}</i>, {{ $Y }}{{ end }}. <a href={{ .pdf }}><i class="fa fa-file-pdf"></i></a>
+            {{ if isset . "github" }}
+              <a href={{ .github }}><i class="fab fa-github"></i></a>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+</ul>
     </div>
 
     <!-- (Optional) Home

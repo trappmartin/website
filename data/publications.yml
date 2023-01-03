@@ -1,0 +1,142 @@
+papers:
+  - year: preprints
+    publications:
+      - title: "Representational multiplicity should be exposed, not eliminated"
+        authors: A. Heljakka, M. Trapp, J. Kannala, A. Solin
+        pdf: https://arxiv.org/abs/2206.08890
+
+      - title: Deep residual mixture models
+        authors: P. Hämäläinen, M. Trapp, T. Saloheimo, A. Solin
+        pdf: https://arxiv.org/abs/2006.12063
+
+  - year: 2022
+    publications:
+    - title: On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees
+      authors: M. Trapp, A. Solin
+      venue: Presented at the 5th Workshop on Tractable Probabilistic Modeling
+      pdf: https://openreview.net/pdf?id=9IiOHCP6VE6
+      selected: true
+
+    - title: A Hardware Perspective to Evaluating Probabilistic Circuits
+      authors: J. Leslin, A. Hyttinen, K. Periasamy, L. Yao, M. Trapp, M. Andraud
+      venue: In Proceedings of the 11th International Conference on Probabilistic Graphical Models (PGM)
+      pdf: https://proceedings.mlr.press/v186/leslin22a/leslin22a.pdf
+
+    - title: Anomaly detection using generative models and sum-product networks in mammography scans
+      authors: M. Dietrichstein, D. Major, M. Trapp, M. Wimmer, D. Lenis, P. Winter, A. Berg
+      venue: In Proceedings of the MICCAI Workshop on Deep Generative Models
+      pdf: https://arxiv.org/abs/2210.06188
+
+    - title: Uncertainty-guided source-free domain adaptation
+      authors: S. Roy, M. Trapp, A. Pilzer, J. Kannala, N. Sebe, E. Ricci, A. Solin
+      venue: In Proceedings of the 17th European Conference on Computer Vision (ECCV)
+      pdf: https://arxiv.org/abs/2208.07591
+      github: https://github.com/roysubhankar/uncertainty-sfda
+      selected: true
+
+  - year: 2021
+    publications:
+    - title: Periodic Activation Functions Induce Stationarity
+      authors: L. Meronen, M. Trapp, A. Solin
+      venue: In Proceedings of Advances in Neural Information Processing Systems 34 (NeurIPS)
+      pdf: https://arxiv.org/abs/2110.13572
+      github: https://github.com/AaltoML/PeriodicBNN
+      selected: true
+
+    - title: Leveraging Probabilistic Circuits for Nonparametric Multi-Output Regression
+      authors: Z. Yu, M. Zhu, M. Trapp, A. Skryagin, K. Kersting
+      venue: In Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI)
+      pdf: https://arxiv.org/abs/2106.08687
+      github: https://github.com/ml-research/MOMoGP
+
+  - year: 2020
+    publications:
+      - title: "Einsum networks: Fast and scalable learning of tractable probabilistic circuits"
+        authors: R. Peharz, S. Lang, A. Vergari, K. Stelzner, A. Molina, M. Trapp, G. Van den Broeck, K. Kersting, Z. Ghahramani
+        venue: In Proceedings of the 37th International Conference on Machine Learning (ICML)
+        pdf: http://proceedings.mlr.press/v119/peharz20a/peharz20a.pdf
+        github: https://github.com/cambridge-mlg/EinsumNetworks
+
+      - title: Sum-Product Networks for Complex Modelling Scenarios
+        authors: M. Trapp
+        venue: PhD thesis, Graz University of Technology
+        pdf: https://diglib.tugraz.at/download.php?id=61541b71cfbb0&location=browse
+
+
+      - title: "Random sum-product networks: A simple and effective approach to probabilistic deep learning"
+        authors: R. Peharz, A. Vergari, K. Stelzner, A. Molina, X. Shao, M. Trapp, K. Kersting, Z. Ghahramani
+        venue: In Proceedings of the 36th Uncertainty in Artificial Intelligence (UAI)
+        pdf: http://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf
+        github: https://github.com/cambridge-mlg/RAT-SPN
+
+      - title: "Sum-product-transform networks: Exploiting symmetries using invertible transformations"
+        authors: T. Pevný, V. Smídl, M. Trapp, O. Poláček, T. Oberhuber
+        venue: In Proceedings of the International Conference on Probabilistic Graphical Models (PGM)
+        pdf: http://proceedings.mlr.press/v138/pevny20a/pevny20a.pdf
+        github: https://github.com/pevnak/SumProductTransform.jl
+
+      - title: Deep Structured Mixtures of Gaussian Processes
+        authors: M. Trapp, R. Peharz, F. Pernkopf, C. E. Rasmussen
+        venue: In Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)
+        pdf: https://arxiv.org/abs/1910.04536
+        github: https://github.com/trappmartin/DeepStructuredMixtures
+        selected: true
+
+  - year: 2019
+    publications:
+      - title: Bayesian learning of sum-product networks
+        authors: M. Trapp, R. Peharz, H. Ge, F. Pernkopf, Z. Ghahramani
+        venue: In Proceedings of Advances in Neural Information Processing Systems 32 (NeurIPS)
+        pdf: https://arxiv.org/abs/1905.10884
+        github: https://github.com/trappmartin/BayesianSumProductNetworks
+        selected: true
+
+      - title: Optimisation of overparametrized sum-product networks
+        authors: M. Trapp, R. Peharz, F. Pernkopf
+        venue: Presented at the TPM workshop at ICML
+        pdf: https://arxiv.org/pdf/1905.08196.pdf
+        github: https://github.com/trappmartin/TPM2019
+
+
+  - year: 2018
+    publications:
+      - title: Grounded word learning on a pepper robot
+        authors: M. Hirschmanner, S. Gross, B. Krenn, F. Neubarth, M. Trapp, M. Vincze
+        venue: Proceedings of the 18th International Conference on Intelligent Virtual Agents
+        pdf: https://dl.acm.org/doi/10.1145/3267851.3267903
+
+  - year: 2017
+    publications:
+      - title: Safe Semi-Supervised Learning of Sum-Product Networks
+        authors: M. Trapp, T. Madl, R. Peharz, F. Pernkopf, R. Trappl
+        venue: In Proceedings of the 33rd Conference on Uncertainty in Artificial Intelligence (UAI)
+        pdf: https://arxiv.org/abs/1710.03444
+        github: https://github.com/trappmartin/SSLSPN_UAI2017
+
+      - title: Crossmodal crosssituational learning with attention
+        authors: B. Krenn, M. Trapp, S. Gross, F. Neubarth
+        venue: IEEE ICDL-EPIROB Workshop on Computational Models for Crossmodal Learning
+        pdf: https://www2.informatik.uni-hamburg.de/wtm/WorkshopCrossmodalLearning2017/papers/Krenn_Final.pdf
+
+      - title: Retrieving Compositional Documents Using Position-Sensitive Word Mover's Distance
+        authors: M. Trapp, M. Skowron, D. Schabus
+        venue: ACM SIGIR International Conference on Theory of Information Retrieval
+        pdf: https://dl.acm.org/doi/abs/10.1145/3121050.3121084
+
+  - year: 2016
+    publications:
+      - title: Structure inference in sum-product networks using infinite sum-product trees
+        authors: M. Trapp, R. Peharz, M. Skowron, T. Madl, F. Pernkopf, R. Trappl
+        venue: Presented at NeurIPS workshop on Practical Bayesian Nonparametrics
+        pdf: https://www2.spsc.tugraz.at/www-archive/downloads/BNPNIPS_2016_paper_9.pdf
+
+      - title: Automatic identification of character types from film dialogs
+        authors: M. Skowron, M. Trapp, S. Payr, R. Trappl
+        venue: Applied Artificial Intelligence 30 (10)
+        pdf: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2017.1289311
+
+      - title: Adaptive and Background-Aware GAL4 Expression Enhancement of Co-registered Confocal Microscopy Images
+        authors: M. Trapp, F. Schulze, A. A. Novikov, L. Tirian, B. J. Dickson, K. Bühler
+        venue: Neuroinformatics 14 (2)
+        pdf: https://link.springer.com/article/10.1007/s12021-015-9289-y
+

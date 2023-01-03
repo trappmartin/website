@@ -5,8 +5,13 @@
   url = "/"
 
   [[main]]
-  name = "Notes"
+  name = "Notes / Blog"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
+  [[main]]
+  name = "Publications"
+  weight = 300
+  identifier = "publications"
+  url = "/publications/"

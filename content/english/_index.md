@@ -40,11 +40,3 @@ Currently, I am particularly interested in pushing the frontier of **tractabilit
 
 
 In addition, I am part of the [Turing.jl](https://turing.ml/dev/) project and co-organise the ELLIS Seminar on [Advances in Probabilistic Machine Learning](https://aaltoml.github.io/apml/).
-
-### Selected Publications & Preprints
-- M. Trapp, A. Solin. **On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees**, preprint.
-- L. Meronen, *M. Trapp* and A. Solin. **[Periodic Activation Functions Induce Stationarity](https://arxiv.org/abs/2110.13572)**, NeurIPS 2021.
-- R. Peharz, S. Lang, A. Vergari, K. Stelzner, A. Molina, *M. Trapp*, G. Van den Broeck, K. Kersting and Z. Ghahramani. **[Einsum Networks](https://arxiv.org/abs/2004.06231)**, ICML 2020.
-- *M. Trapp*, R. Peharz, F. Pernkopf and C. E. Rasmussen. **[Deep Structured Mixtures of Gaussian Processes](https://arxiv.org/abs/1910.04536)**, AISTATS 2020.
-- *M. Trapp*, R. Peharz, H. Ge, F. Pernkopf and Z. Ghahramani. **[Bayesian Learning of Sum-Product Networks](https://arxiv.org/abs/1905.10884)**, NeurIPS 2019.
-

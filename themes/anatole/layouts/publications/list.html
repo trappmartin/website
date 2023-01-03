@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div class="post">
+{{ range $index, $elemen:= .Site.Data.publications.papers }}
+{{ $Y := .year }}
+<div class="post__content">
+<h2> {{ $Y }} </h2>
+<ul>
+{{ range .publications }}
+{{ $a := .authors }}
+{{ $a := replace $a "M. Trapp" "<u>M. Trapp</u>" }}
+
+<li> {{ $a | markdownify }}. <a href={{ .pdf }}>{{ .title | markdownify }}</a>{{ if isset . "venue" }}, <i>{{ .venue  }}</i>, {{ $Y }}{{ end }}. <a href={{ .pdf }}><i class="fa fa-file-pdf"></i></a>
+  {{ if isset . "github" }}
+    <a href={{ .github }}><i class="fab fa-github"></i></a>
+  {{ end }}
+{{ end }}
+</ul>
+</div>
+{{ end }}
+</div>
+{{ end }}
