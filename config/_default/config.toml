@@ -13,7 +13,12 @@ enableEmoji = false
 enableRobotsTXT = true
 
 # Enable Disqus
-disqusShortname = "trappmartin"
+# disqusShortname = "trappmartin"
+
+[params.utterances]
+repo = "trappmartin/website"
+issueTerm = "pathname"
+theme= "github-light"
 
 # Google Analytics
 #googleAnalytics = "UA-123-45"
