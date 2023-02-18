@@ -3,27 +3,6 @@ author = "Martin Trapp"
 mainSections = [""]
 +++
 
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
-
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
-
-Markdown supported, ie:
-
-```
-# Welcome
-
-- Hugo :rocket:
-- Hugo theme :rocket:
-
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
 ### News
 - I am starting a blog with research notes!
 - Together with Andrea Pilzer, Arno Solin, Yingzhen Li, and Neill D.F. Campbell, I co-organised the Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io) at ECCV 2022!
@@ -32,7 +11,7 @@ Remember that you can also specify a section header for the posts below by confi
 ---
 
 ### Short Bio
-Currently, I am an [Academy of Finland postdoctoral researcher](https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_hakkuvaus2&CLICKED_ON=&HAKNRO1=347279&UILANG=en&TULOSTE=HTML) postdoctoral researcher at the Department of Computer Science at [Aalto University](https://www.aalto.fi/en), Finland. Together with Arno Solin, Trevor Campbell, Guy van den Broeck, and Zoubin Ghahramani, I am developing tools for efficient computations in stochastic process models and Bayesian deep learning by utilizing core ideas of probabilistic circuits. Previously, I was a postdoc with [Arno Solin](https://users.aalto.fi/~asolin/) (2020 – 2022). Before that, I finished my PhD thesis on “Sum-Product Networks for Complex Modelling Tasks” at Graz University of Technology, Austria, under the supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and [Robert Peharz](https://robert-peharz.github.io) in 2020.
+Currently, I am an [Academy of Finland postdoctoral researcher](https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_hakkuvaus2&CLICKED_ON=&HAKNRO1=347279&UILANG=en&TULOSTE=HTML) at the Department of Computer Science at [Aalto University](https://www.aalto.fi/en), Finland. Together with Arno Solin, Trevor Campbell, Guy van den Broeck, and Zoubin Ghahramani, I am developing tools for efficient computations in stochastic process models and Bayesian deep learning by utilizing core ideas of probabilistic circuits. Previously, I was a postdoc with [Arno Solin](https://users.aalto.fi/~asolin/) (2020 – 2022). Before that, I finished my PhD thesis on “Sum-Product Networks for Complex Modelling Tasks” at Graz University of Technology, Austria, under the supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and [Robert Peharz](https://robert-peharz.github.io) in 2020. For more details see my [academic cv](./cv.pdf).
 
 ### Research Interests
 I am broadly interested in principled approaches to probabilistic reasoning, uncertainty quantification, deep architectures, and nonparametric modelling families. 

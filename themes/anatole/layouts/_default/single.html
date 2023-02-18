@@ -65,7 +65,7 @@
       {{- if (eq .Site.Params.mermaid.enable true) -}}
         {{- partial "mermaid.html" . -}}
       {{- end -}}
-    </div>
+
     <div class="post__footer">
       {{ with .Page.Params.Categories }}
         {{ partial "taxonomy/categories.html" . }}
@@ -104,4 +104,5 @@
 
     {{ end }}
   </div>
+
 {{ end }}
