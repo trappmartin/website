@@ -4,6 +4,7 @@ mainSections = [""]
 +++
 
 ### News
+- Our proposals for this year's Workshop on Tractable Probabilistic Modeling at UAI 2023 and for this year's Uncertainty Quantification for Computer Vision at ICCV 2023 got accepted!
 - I am starting a blog with research notes!
 - Together with Andrea Pilzer, Arno Solin, Yingzhen Li, and Neill D.F. Campbell, I co-organised the Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io) at ECCV 2022!
 - Together with YooJung Choi, Eric Nalisnick, Fabrizio Ventola, and Antonio Vergari, I co-organised the Workshop on [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2022/) at UAI 2022!
