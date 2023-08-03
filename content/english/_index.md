@@ -4,16 +4,19 @@ mainSections = [""]
 +++
 
 ### News
-- Our proposals for this year's Workshop on Tractable Probabilistic Modeling at UAI 2023 and for this year's Uncertainty Quantification for Computer Vision at ICCV 2023 got accepted!
+- Together with colleagues I am co-organising the Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2023.github.io/) at ICCV 2023!
+- Together with colleagues I am co-organising the Workshop on [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2023/) at UAI 2023!
 - I am starting a blog with research notes!
-- Together with Andrea Pilzer, Arno Solin, Yingzhen Li, and Neill D.F. Campbell, I co-organised the Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2022.github.io) at ECCV 2022!
-- Together with YooJung Choi, Eric Nalisnick, Fabrizio Ventola, and Antonio Vergari, I co-organised the Workshop on [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2022/) at UAI 2022!
 
 ---
 
 ### Short Bio & Research Interests
-I am a postdoctoral researcher at the Department of Computer Science at [Aalto University](https://www.aalto.fi/en), Finland. Before that, I was a postdoctoral researcher working with Arno Solin and completed my PhD at Graz University of Technology, Austria, under Franz Pernkopf and Robert Peharz. My research is broadly centred around tractable probabilistic models (e.g., probabilistic circuits), Bayesian learning in complex models (e.g., neural networks), and Bayesian nonparametrics. I am particularly interested in (i) developing new methods that enable tractable probabilistic inference while being more expressive than probabilistic circuits and adaptive (nonparametric), and (ii) leveraging core ideas of probabilistic circuits to speed up computations in Bayesian deep learning.
+I am currently an [Academy of Finland](https://www.aka.fi/en/) postdoctoral researcher at the Department of Computer Science at [Aalto University](https://www.aalto.fi/en), Finland, working together with [Arno Solin](https://users.aalto.fi/~asolin/).
+Prior to that, I completed my PhD at Graz University of Technology, Austria, under supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and [Robert Peharz](https://robert-peharz.github.io/) and simultaneously worked as a research assistant at the [Austrian Research Institute for Artificial Intelligence](https://www.ofai.at/).
 
+My research is broadly centred around probabilistic machine learning, Bayesian statistics, and deep learning.
+I am particularly interested in approaches that are **probabilistic**, **tractable**, and **adaptive**.
+Consequently, I made various contributions in the field of tractable probabilistic modelling, Bayesian deep learning, and Bayesian nonparametrics.
 In addition, I am part of the [Turing.jl](https://turing.ml/dev/) project and co-organise the ELLIS Seminar on [Advances in Probabilistic Machine Learning](https://aaltoml.github.io/apml/).
 
 For more details see my [academic cv](./cv.pdf).
