@@ -6,7 +6,7 @@ AoF Postdoctoral Researcher
 Aalto University, Finland"""
 profilePicture = "images/picture2.jpg"
 keywords = ""
-favicon = ""
+# favicon = ""
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
