@@ -1,0 +1,172 @@
+.publications {
+    margin-top: 2rem;
+  
+    h1 {
+      color: #00369f;
+      font-size: 2rem;
+      text-align: center;
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+  
+    h2 {
+      margin-bottom: 1rem;
+  
+      span {
+        font-size: 1.5rem;
+      }
+    }
+  
+    h2.year {
+      color: #00369f;
+      border-top: 1px solid #00369f;
+      padding-top: 1rem;
+      margin-top: 2rem;
+      margin-bottom: -2rem;
+      text-align: right;
+    }
+  
+    ol.bibliography {
+      list-style: none;
+      padding: 0;
+      margin-top: 0;
+  
+      li {
+        margin-bottom: 1rem;
+  
+        .preview {
+          width: 100%;
+          min-width: 80px;
+          max-width: 200px;
+        }
+  
+        .abbr {
+          height: 2rem;
+          margin-bottom: 0.5rem;
+  
+          abbr {
+            display: inline-block;
+            background-color: #00369f;
+            padding-left: 1rem;
+            padding-right: 1rem;
+  
+            a {
+              color: white;
+  
+              &:hover {
+                text-decoration: none;
+              }
+            }
+          }
+  
+          .award {
+            color: #00369f !important;
+            border: 1px solid #00369f;
+          }
+        }
+  
+        .title {
+          font-weight: bolder;
+        }
+  
+        .author {
+          a {
+            border-bottom: 1px dashed #00369f;
+  
+            &:hover {
+              border-bottom-style: solid;
+              text-decoration: none;
+            }
+          }
+  
+          >em {
+            border-bottom: 1px solid;
+            font-style: normal;
+          }
+  
+          >span.more-authors {
+            color: #00369f;
+            border-bottom: 1px dashed #00369f;
+            cursor: pointer;
+  
+            &:hover {
+              color: #00369f;
+              border-bottom: 1px dashed #00369f;
+            }
+          }
+        }
+  
+        .links {
+          a.btn {
+            color: #00369f;
+            border: 1px solid #00369f;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 0.25rem;
+            padding-bottom: 0.25rem;
+            margin-left: 0;
+  
+            &:hover {
+              color: #00369f;
+              border-color: #00369f;
+            }
+          }
+        }
+  
+        .badges {
+          padding-bottom: 0.5rem;
+          span {
+            display: inline-block;
+            color: #00369f;
+            height: 100%;
+            padding-right: 0.5rem;
+            vertical-align: middle;
+  
+            &:hover {
+              text-decoration: underline;
+            }
+          }
+        }
+  
+        .hidden {
+          font-size: 0.875rem;
+          max-height: 0px;
+          overflow: hidden;
+          text-align: justify;
+          transition-property: 0.15s ease;
+          -moz-transition: 0.15s ease;
+          -ms-transition: 0.15s ease;
+          -o-transition: 0.15s ease;
+          transition: all 0.15s ease;
+  
+          p {
+            line-height: 1.4em;
+            margin: 10px;
+          }
+  
+          pre {
+            font-size: 1em;
+            line-height: 1.4em;
+            padding: 10px;
+          }
+        }
+  
+        .hidden.open {
+          max-height: 100em;
+          transition-property: 0.15s ease;
+          -moz-transition: 0.15s ease;
+          -ms-transition: 0.15s ease;
+          -o-transition: 0.15s ease;
+          transition: all 0.15s ease;
+        }
+  
+        div.abstract.hidden {
+          border: dashed 1px var(--global-bg-color);
+        }
+  
+        div.abstract.hidden.open {
+          border-color: var(--global-text-color);
+        }
+      }
+    }
+  }
