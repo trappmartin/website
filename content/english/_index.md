@@ -20,7 +20,6 @@ My research is broadly centred around probabilistic machine learning, Bayesian s
 I am particularly interested in approaches that are **probabilistic**, **tractable**, and **adaptive**.
 Consequently, I made various contributions in the field of tractable probabilistic modelling, Bayesian deep learning, and Bayesian nonparametrics.
 In addition, I am part of the [Turing.jl](https://turing.ml/dev/) project.
-For more details see my [academic cv](./cv.pdf).
 
 <br/>
 
