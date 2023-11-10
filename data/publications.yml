@@ -1,5 +1,38 @@
 papers:
 
+  - year: 2024
+    publications:
+
+    - title: Fixing Overconfidence in Dynamic Neural Networks
+      authors: L. Meronen, M. Trapp, A. Pilzer, L. Yang, A. Solin
+      venue: Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+      conference: WACV
+      pdf: https://arxiv.org/abs/2302.06359
+      keywords:
+        - uncertainty
+        - computer vision
+
+  - year: 2023
+    publications:
+
+    - title: Characteristic Circuits
+      authors: Z. Yu, M. Trapp, K. Kersting
+      venue: Accepted at 37th Conference on Neural Information Processing Systems
+      conference: NeurIPS
+      pdf: https://openreview.net/pdf?id=5W7cXno10k
+
+    - title: "Transport with support: Data-conditional diffusion bridges"
+      authors: E. Tamir, M. Trapp, A. Solin
+      venue: Accepted at Transactions on Machine Learning Research
+      special: TMLR
+      pdf: https://arxiv.org/abs/2301.13636
+
+    - title: 	Encoding Negative Dependencies in Probabilistic Circuits
+      authors: AM. Sladek, M. Trapp, A. Solin
+      venue: 6th Workshop on Tractable Probabilistic Modelling
+      workshop: TPM
+      pdf: https://openreview.net/pdf?id=Jpd7qHaK46
+
   - year: 2022
     publications:
     

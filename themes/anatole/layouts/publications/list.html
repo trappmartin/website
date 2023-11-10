@@ -33,7 +33,7 @@
 
   <div class="col-sm-10">
   <span class="author">{{ $a | markdownify }}</span>.
-  <span><a href={{ .pdf }} >{{ .title | markdownify }}</a></span>{{ if isset . "venue" }}, <i>In proceedings of {{ .venue  }}</i> {{ $Y }}{{ end }}. 
+  <span><a href={{ .pdf }} >{{ .title | markdownify }}</a></span>{{ if isset . "venue" }}, <i>{{ .venue  }}</i>, {{ $Y }}{{ end }}. 
   {{ if isset . "github" }}
     <a href={{ .github }}><i class="fab fa-github"></i></a>
   {{ end }}
