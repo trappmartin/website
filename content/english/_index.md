@@ -4,7 +4,7 @@ mainSections = [""]
 +++
 
 ### News
-- I visiting the Department of Statistics at the University of British Columbia for two month.
+- I am visiting the Department of Statistics at the University of British Columbia for two month.
 - Together with colleagues, I co-organized the 2nd Workshop on [Uncertainty Quantification for Computer Vision](https://uncv2023.github.io/) at ICCV 2023!
 - Together with colleagues, I co-organized the 6th Workshop on [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2023/) at UAI 2023!
 - I started a blog with research notes!
