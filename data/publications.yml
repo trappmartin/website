@@ -78,7 +78,7 @@ papers:
     publications:
     - title: Periodic Activation Functions Induce Stationarity
       authors: L. Meronen, M. Trapp, A. Solin
-      venue: Advances in Neural Information Processing Systems 34
+      venue: Advances in Neural Information Processing Systems 35
       conference: NeurIPS
       pdf: https://arxiv.org/abs/2110.13572
       github: https://github.com/AaltoML/PeriodicBNN
@@ -150,7 +150,7 @@ papers:
     publications:
       - title: Bayesian learning of sum-product networks
         authors: M. Trapp, R. Peharz, H. Ge, F. Pernkopf, Z. Ghahramani
-        venue: Advances in Neural Information Processing Systems 32 
+        venue: Advances in Neural Information Processing Systems 33
         conference: NeurIPS
         pdf: https://arxiv.org/abs/1905.10884
         github: https://github.com/trappmartin/BayesianSumProductNetworks

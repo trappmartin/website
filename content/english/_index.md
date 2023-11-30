@@ -38,8 +38,8 @@ Moreover, I helped in organizing the [Nordic Probabilistic AI School 2022](https
 <br/>
 
 [^1]: <u>M. Trapp</u>. [Sum-Product Networks for Complex Modelling Scenarios](https://diglib.tugraz.at/download.php?id=61541b71cfbb0&location=browse), <i>PhD thesis</i>, 2020.
-[^2]: Z. Yu, <u>M. Trapp</u>, K. Kersting. [Characteristic Circuits](https://nips.cc/virtual/2023/poster/72798), <i>Advances in Neural Information Processing Systems 36 (NeurIPS)</i>, 2023.
-[^3]: L. Meronen, <u>M. Trapp</u>, A. Solin. [Periodic Activation Functions Induce Stationarity](https://arxiv.org/abs/2110.13572), <i>Advances in Neural Information Processing Systems 34 (NeurIPS)</i>, 2021.
+[^2]: Z. Yu, <u>M. Trapp</u>, K. Kersting. [Characteristic Circuits](https://nips.cc/virtual/2023/poster/72798), <i>Advances in Neural Information Processing Systems 37 (NeurIPS)</i>, 2023.
+[^3]: L. Meronen, <u>M. Trapp</u>, A. Solin. [Periodic Activation Functions Induce Stationarity](https://arxiv.org/abs/2110.13572), <i>Advances in Neural Information Processing Systems 35 (NeurIPS)</i>, 2021.
 [^4]: <u>M. Trapp</u>, A. Solin. [On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees](https://openreview.net/pdf?id=9IiOHCP6VE6), <i> Workshop on Tractable Probabilistic Modeling</i>, 2022.
-[^5]: <u>M. Trapp</u>, R. Peharz, H. Ge, F. Pernkopf, Z. Ghahramani. [Bayesian Learning of Sum-Product Networks](https://arxiv.org/abs/1905.10884), <i>Advances in Neural Information Processing Systems 32 (NeurIPS)</i>, 2019.
+[^5]: <u>M. Trapp</u>, R. Peharz, H. Ge, F. Pernkopf, Z. Ghahramani. [Bayesian Learning of Sum-Product Networks](https://arxiv.org/abs/1905.10884), <i>Advances in Neural Information Processing Systems 33 (NeurIPS)</i>, 2019.
 [^6]: S. Roy, <u>M. Trapp</u>, A. Pilzer, J. Kannala, N. Sebe, E. Ricci, A. Solin. [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591), <i>European Conference on Computer Vision (ECCV)</i>, 2022.
