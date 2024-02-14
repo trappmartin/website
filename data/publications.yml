@@ -5,19 +5,27 @@ papers:
 
     - title: Fixing Overconfidence in Dynamic Neural Networks
       authors: L. Meronen, M. Trapp, A. Pilzer, L. Yang, A. Solin
-      venue: Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+      venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
       conference: WACV
       pdf: https://arxiv.org/abs/2302.06359
       keywords:
         - uncertainty
         - computer vision
 
+    - title: "Subtractive Mixture Models via Squaring: Representation and Learning"
+      authors: L. Loconte, A.M. Sladek, S. Mengel, M. Trapp, A. Solin, N. Gillis, A. Vergari
+      conference: ICLR
+      venue: Accepted at the International Conference on Learning Representations (ICLR)
+      pdf: https://arxiv.org/abs/2310.00724
+      keywords:
+        - tractable models
+
   - year: 2023
     publications:
 
     - title: Characteristic Circuits
       authors: Z. Yu, M. Trapp, K. Kersting
-      venue: Accepted at 37th Conference on Neural Information Processing Systems
+      venue: 37th Conference on Neural Information Processing Systems (oral)
       conference: NeurIPS
       pdf: https://openreview.net/pdf?id=5W7cXno10k
 
