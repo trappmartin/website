@@ -1,36 +1,13 @@
 {{ define "main" }}
   <div class="container">
-  <div class="row">
-  <div class="col-sm-12">
-  <div class="post">
-  <div class="post__content">
-      {{ .Content }}
-
-      <!--
-      <br/>
-      <article>
-      
-      <h3> Selected Publications </h3>
-      <ul>
-      {{ range .Site.Data.publications.papers }}
-        {{ $Y := .year }}
-        {{ range .publications }}
-          {{ if isset . "selected" }}
-            {{ $a := .authors }}
-            {{ $a := replace $a "M. Trapp" "<u>M. Trapp</u>" }}
-            <li> {{ $a | markdownify }}. <a href={{ .pdf }}>{{ .title | markdownify }}</a>{{ if isset . "venue" }}, <i>In proceedings of {{ .venue  }}</i>, {{ $Y }}{{ end }}.
-            {{ if isset . "github" }} <a href={{ .github }}><i class="fab fa-github"></i></a> {{ end }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-      </ul>
-      </article>
-    -->
-
-    </div>
-    </div>
-    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="post">
+          <div class="post__content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-
 {{ end }}

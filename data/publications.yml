@@ -3,20 +3,28 @@ papers:
   - year: 2024
     publications:
 
+    - title: On Hardware-efficient Inference in Probabilistic Circuits
+      authors: L. Yao, M. Trapp, J. Leslin, G. Singh, P. Zhang, K. Periasamy, M. Andraud
+      venue: Conference on Uncertainty in Artificial Intelligence
+      conference: UAI
+      pdf: https://arxiv.org/abs/2405.13639
+      keywords:
+        - tractability
+
     - title: Fixing Overconfidence in Dynamic Neural Networks
       authors: L. Meronen, M. Trapp, A. Pilzer, L. Yang, A. Solin
-      venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+      venue: IEEE/CVF Winter Conference on Applications of Computer Vision
       conference: WACV
       pdf: https://arxiv.org/abs/2302.06359
       keywords:
-        - uncertainty
-        - computer vision
+        - uncertainty quantification
 
     - title: "Subtractive Mixture Models via Squaring: Representation and Learning"
       authors: L. Loconte, A.M. Sladek, S. Mengel, M. Trapp, A. Solin, N. Gillis, A. Vergari
       conference: ICLR
-      venue: Accepted at the International Conference on Learning Representations (ICLR)
+      venue: International Conference on Learning Representations
       pdf: https://arxiv.org/abs/2310.00724
+      note: "**(spotlight, top: 5%)**"
       keywords:
         - tractable models
 
@@ -25,19 +33,20 @@ papers:
 
     - title: Characteristic Circuits
       authors: Z. Yu, M. Trapp, K. Kersting
-      venue: 37th Conference on Neural Information Processing Systems (oral)
+      venue: Conference on Neural Information Processing Systems (oral)
       conference: NeurIPS
+      note: "**(oral, top: 0.6%)**"
       pdf: https://openreview.net/pdf?id=5W7cXno10k
 
     - title: "Transport with support: Data-conditional diffusion bridges"
       authors: E. Tamir, M. Trapp, A. Solin
-      venue: Accepted at Transactions on Machine Learning Research
+      venue: Transactions on Machine Learning Research
       special: TMLR
       pdf: https://arxiv.org/abs/2301.13636
 
     - title: 	Encoding Negative Dependencies in Probabilistic Circuits
       authors: AM. Sladek, M. Trapp, A. Solin
-      venue: 6th Workshop on Tractable Probabilistic Modelling
+      venue: Workshop on Tractable Probabilistic Modelling
       workshop: TPM
       pdf: https://openreview.net/pdf?id=Jpd7qHaK46
 
@@ -46,7 +55,7 @@ papers:
     
     - title: Uncertainty-guided source-free domain adaptation
       authors: S. Roy, M. Trapp, A. Pilzer, J. Kannala, N. Sebe, E. Ricci, A. Solin
-      venue: 17th European Conference on Computer Vision
+      venue: European Conference on Computer Vision
       conference: ECCV
       pdf: https://arxiv.org/abs/2208.07591
       github: https://github.com/roysubhankar/uncertainty-sfda
@@ -57,7 +66,7 @@ papers:
     
     - title: A Hardware Perspective to Evaluating Probabilistic Circuits
       authors: J. Leslin, A. Hyttinen, K. Periasamy, L. Yao, M. Trapp, M. Andraud
-      venue: 11th International Conference on Probabilistic Graphical Models
+      venue: International Conference on Probabilistic Graphical Models
       conference: PGM
       pdf: https://proceedings.mlr.press/v186/leslin22a/leslin22a.pdf
       keywords: 
@@ -75,7 +84,7 @@ papers:
 
     - title: On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees
       authors: M. Trapp, A. Solin
-      venue: 5th Workshop on Tractable Probabilistic Modeling
+      venue: Workshop on Tractable Probabilistic Modeling
       workshop: TPM
       pdf: https://openreview.net/pdf?id=9IiOHCP6VE6
       keywords:
@@ -86,7 +95,7 @@ papers:
     publications:
     - title: Periodic Activation Functions Induce Stationarity
       authors: L. Meronen, M. Trapp, A. Solin
-      venue: Advances in Neural Information Processing Systems 35
+      venue: Advances in Neural Information Processing Systems
       conference: NeurIPS
       pdf: https://arxiv.org/abs/2110.13572
       github: https://github.com/AaltoML/PeriodicBNN
@@ -97,7 +106,7 @@ papers:
 
     - title: Leveraging Probabilistic Circuits for Nonparametric Multi-Output Regression
       authors: Z. Yu, M. Zhu, M. Trapp, A. Skryagin, K. Kersting
-      venue: 37th Conference on Uncertainty in Artificial Intelligence
+      venue: Conference on Uncertainty in Artificial Intelligence
       conference: UAI
       pdf: https://arxiv.org/abs/2106.08687
       github: https://github.com/ml-research/MOMoGP
@@ -109,7 +118,7 @@ papers:
     publications:
       - title: Deep Structured Mixtures of Gaussian Processes
         authors: M. Trapp, R. Peharz, F. Pernkopf, C. E. Rasmussen
-        venue: 23rd International Conference on Artificial Intelligence and Statistics
+        venue: International Conference on Artificial Intelligence and Statistics
         conference: AISTATS
         pdf: https://arxiv.org/abs/1910.04536
         github: https://github.com/trappmartin/DeepStructuredMixtures
@@ -126,7 +135,7 @@ papers:
       
       - title: "Einsum networks: Fast and scalable learning of tractable probabilistic circuits"
         authors: R. Peharz, S. Lang, A. Vergari, K. Stelzner, A. Molina, M. Trapp, G. Van den Broeck, K. Kersting, Z. Ghahramani
-        venue: 37th International Conference on Machine Learning
+        venue: International Conference on Machine Learning
         conference: ICML
         pdf: http://proceedings.mlr.press/v119/peharz20a/peharz20a.pdf
         github: https://github.com/cambridge-mlg/EinsumNetworks
@@ -136,7 +145,7 @@ papers:
 
       - title: "Random sum-product networks: A simple and effective approach to probabilistic deep learning"
         authors: R. Peharz, A. Vergari, K. Stelzner, A. Molina, X. Shao, M. Trapp, K. Kersting, Z. Ghahramani
-        venue: 36th Uncertainty in Artificial Intelligence 
+        venue: Uncertainty in Artificial Intelligence 
         conference: UAI
         pdf: http://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf
         github: https://github.com/cambridge-mlg/RAT-SPN
@@ -158,7 +167,7 @@ papers:
     publications:
       - title: Bayesian learning of sum-product networks
         authors: M. Trapp, R. Peharz, H. Ge, F. Pernkopf, Z. Ghahramani
-        venue: Advances in Neural Information Processing Systems 33
+        venue: Advances in Neural Information Processing Systems
         conference: NeurIPS
         pdf: https://arxiv.org/abs/1905.10884
         github: https://github.com/trappmartin/BayesianSumProductNetworks
@@ -178,7 +187,7 @@ papers:
     publications:
       - title: Safe Semi-Supervised Learning of Sum-Product Networks
         authors: M. Trapp, T. Madl, R. Peharz, F. Pernkopf, R. Trappl
-        venue: 33rd Conference on Uncertainty in Artificial Intelligence
+        venue: Conference on Uncertainty in Artificial Intelligence
         conference: UAI
         pdf: https://arxiv.org/abs/1710.03444
         github: https://github.com/trappmartin/SSLSPN_UAI2017

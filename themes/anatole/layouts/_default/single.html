@@ -1,11 +1,5 @@
 {{ define "main" }}
-  <div
-    class="post {{ with .Site.Params.doNotLoadAnimations }}
-      .
-    {{ else }}
-      animated fadeInDown
-    {{ end }}"
-  >
+  <div class="post">
     {{ if .Params.thumbnail }}
       <div class="post__thumbnail-wrapper">
         <img class="post__thumbnail" src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image" />

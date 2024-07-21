@@ -4,7 +4,7 @@ title: Let's write some posts...
 date: 2022-12-01
 description: First post in a series, I hope.
 tags: 
-  - random
+  - Blog Post
 ---
 
 I wanted to start some form of a blog or research notes for a while, and starting a fellowship like a good opportunity to learn *new things* and write them down so that *other people* can benefit from it too.

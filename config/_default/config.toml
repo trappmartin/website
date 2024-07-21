@@ -9,7 +9,7 @@ title = "Website of Martin Trapp"
 theme = "anatole"
 
 summarylength = 10
-enableEmoji = false
+enableEmoji = true
 enableRobotsTXT = true
 
 # Enable Disqus
@@ -19,9 +19,6 @@ enableRobotsTXT = true
 repo = "trappmartin/website"
 issueTerm = "pathname"
 theme= "github-light"
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
