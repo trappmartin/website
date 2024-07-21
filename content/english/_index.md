@@ -16,20 +16,23 @@ mainSections = [""]
 
 ### Short Bio
 I am an [Academy of Finland](https://www.aka.fi/en/) postdoctoral researcher in the Department of Computer Science at [Aalto University](https://www.aalto.fi/en), Finland, and a member of the [ELLIS](https://ellis.eu/) society.
+My research is centered around **uncertainty quantification** with a particular interest on **tractability, principled approaches, and large-scale settings** with applications in deep learning.
+I conduct research torgheter with many amazing colleagues & collaborators and closely work with the team of my postdoc advisor [Arno Solin](https://users.aalto.fi/~asolin/).
 
-Together with [Arno Solin](https://users.aalto.fi/~asolin/) I work on topics related to probabilistic machine learning, tractable models, and Bayesian deep learning.
-
-Prior to that, I completed my PhD at Graz University of Technology, Austria, under the supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and [Robert Peharz](https://robert-peharz.github.io/). During my PhD I was a research assistant at the [Austrian Research Institute for AI](https://www.ofai.at/) and at the [Computational and Biological Learning lab](https://www.cbl-cambridge.org/) of the University of Cambridge, UK. I finished my master's degree in computational intelligence at Vienna University of Technology, Austria, and at the time was a research assistant at [VRVis](https://www.vrvis.at/).
+Before joining Aalto, I completed my PhD at Graz University of Technology, Austria, under the supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and [Robert Peharz](https://robert-peharz.github.io/). 
+During my PhD I was a research assistant at the [Austrian Research Institute for AI](https://www.ofai.at/) and at the [Computational and Biological Learning lab](https://www.cbl-cambridge.org/) of the University of Cambridge, UK, where I worked on [Turing.jl](https://turinglang.org/).
+I finished my master's degree at the Vienna University of Technology and was a research assistant at [VRVis](https://www.vrvis.at/) at the same time.
 
 <br/>
 
 ### Research Interests
-I am broadly interested in (probabilistic) machine learning and artificial intelligence and have a particular interest in the following research questions:
-- How can we design **tractable representations** that are useful in complex modeling scenarios?[^1]<sup>,</sup>[^2]
-- How can we encode **meaningful assumptions** into modern machine-learning models?[^3]<sup>,</sup>[^4]
-- How can we make our methods **adaptive** to increasing data complexity, new domains, etc. in a principled way?[^5]<sup>,</sup>[^6]
+I am broadly interested in probabilistic machine learning with a particular interest in efficient uncertainty quantification and ways to utilize tractable inference to establish more trustworthy machine learning. Currently, I am particularly excited about the following research questions:
 
-In addition to my research, I am part of the [Turing.jl](https://turing.ml/dev/) project.
+- How can we quantify uncertainties efficiently and effectively in the case of large-scale systems?
+- What are the limits of tractable yet expressive models and how can we push this frontier?
+- How can we identify and encode function-space priors and constraints in deep learning models?
+
+Moreover, I am particularly interested in how we can utilize probabilistic (and causal) reasoning to build more reliable machine learning systems.
 
 <br/>
 
@@ -39,9 +42,10 @@ Moreover, I helped in organizing the [Nordic Probabilistic AI School 2022](https
 
 <br/>
 
-[^1]: <u>M. Trapp</u>. [Sum-Product Networks for Complex Modelling Scenarios](https://diglib.tugraz.at/download.php?id=61541b71cfbb0&location=browse), <i>PhD thesis</i>, 2020.
-[^2]: Z. Yu, <u>M. Trapp</u>, K. Kersting. [Characteristic Circuits](https://nips.cc/virtual/2023/poster/72798), <i>Advances in Neural Information Processing Systems 37 (NeurIPS)</i>, 2023.
-[^3]: L. Meronen, <u>M. Trapp</u>, A. Solin. [Periodic Activation Functions Induce Stationarity](https://arxiv.org/abs/2110.13572), <i>Advances in Neural Information Processing Systems 35 (NeurIPS)</i>, 2021.
-[^4]: <u>M. Trapp</u>, A. Solin. [On Priors in Bayesian Probabilistic Circuits and Multivariate Pólya Trees](https://openreview.net/pdf?id=9IiOHCP6VE6), <i> Workshop on Tractable Probabilistic Modeling</i>, 2022.
-[^5]: <u>M. Trapp</u>, R. Peharz, H. Ge, F. Pernkopf, Z. Ghahramani. [Bayesian Learning of Sum-Product Networks](https://arxiv.org/abs/1905.10884), <i>Advances in Neural Information Processing Systems 33 (NeurIPS)</i>, 2019.
-[^6]: S. Roy, <u>M. Trapp</u>, A. Pilzer, J. Kannala, N. Sebe, E. Ricci, A. Solin. [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591), <i>European Conference on Computer Vision (ECCV)</i>, 2022.
+### Selected References
+
+1. L. Loconte et al. [Subtractive Mixture Models via Squaring: Representation and Learning](https://arxiv.org/abs/2310.00724), <i>International Conference on Learning Representations (ICLR)</i>, 2024.
+2. Z. Yu, <u>M. Trapp</u>, K. Kersting. [Characteristic Circuits](https://nips.cc/virtual/2023/poster/72798), <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2023.
+3. L. Meronen, <u>M. Trapp</u>, A. Solin. [Periodic Activation Functions Induce Stationarity](https://arxiv.org/abs/2110.13572), <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2021.
+4. <u>M. Trapp</u> et al. [Bayesian Learning of Sum-Product Networks](https://arxiv.org/abs/1905.10884), <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2019.
+5. <u>M. Trapp</u>. [Sum-Product Networks for Complex Modelling Scenarios](https://diglib.tugraz.at/download.php?id=61541b71cfbb0&location=browse), <i>PhD thesis</i>, 2020.
