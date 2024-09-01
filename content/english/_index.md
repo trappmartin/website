@@ -16,23 +16,23 @@ mainSections = [""]
 
 ### Short Bio
 I am an [Academy of Finland](https://www.aka.fi/en/) postdoctoral researcher in the Department of Computer Science at [Aalto University](https://www.aalto.fi/en), Finland, and a member of the [ELLIS](https://ellis.eu/) society.
-My research is centered around **uncertainty quantification** with a particular interest on **tractability, principled approaches, and large-scale settings** with applications in deep learning.
-I conduct research torgheter with many amazing colleagues & collaborators and closely work with the team of my postdoc advisor [Arno Solin](https://users.aalto.fi/~asolin/).
+My research is centred around **uncertainty quantification** to make machine learning more reliable. 
+I have a particular interest in **tractable and principled** approaches and in **large-scale settings** with applications in computer vision.
+I conduct research together with many amazing colleagues & collaborators, and closely work with the team of my postdoc advisor [Arno Solin](https://users.aalto.fi/~asolin/).
 
-Before joining Aalto, I completed my PhD at Graz University of Technology, Austria, under the supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and [Robert Peharz](https://robert-peharz.github.io/). 
-During my PhD I was a research assistant at the [Austrian Research Institute for AI](https://www.ofai.at/) and at the [Computational and Biological Learning lab](https://www.cbl-cambridge.org/) of the University of Cambridge, UK, where I worked on [Turing.jl](https://turinglang.org/).
+Before joining Aalto, I completed my PhD at Graz University of Technology, Austria, under the supervision of [Franz Pernkopf](https://www.spsc.tugraz.at/people/franz-pernkopf.html) and advised by [Robert Peharz](https://robert-peharz.github.io/). 
+During my PhD I was simultaneously a research assistant at the [Austrian Research Institute for AI](https://www.ofai.at/) and worked for several month at the [Computational and Biological Learning lab](https://www.cbl-cambridge.org/) of the University of Cambridge, UK, as research assistant.
+I have been actively involved in the development of [Turing.jl](https://turinglang.org/) and remain a strong supporter of open-source software.
 I finished my master's degree at the Vienna University of Technology and was a research assistant at [VRVis](https://www.vrvis.at/) at the same time.
 
 <br/>
 
 ### Research Interests
-I am broadly interested in probabilistic machine learning with a particular interest in efficient uncertainty quantification and ways to utilize tractable inference to establish more trustworthy machine learning. Currently, I am particularly excited about the following research questions:
+I am broadly interested in probabilistic machine learning with a particular interest in computational and principled approaches to uncertainty quantification as well as ways to utilize tractable inference to establish more trustworthy machine learning. Currently, I am particularly excited about the following research questions:
 
 - How can we quantify uncertainties efficiently and effectively in the case of large-scale systems?
 - What are the limits of tractable yet expressive models and how can we push this frontier?
-- How can we identify and encode function-space priors and constraints in deep learning models?
-
-Moreover, I am particularly interested in how we can utilize probabilistic (and causal) reasoning to build more reliable machine learning systems.
+- How can we identify and encode function-space model assumptions or structural output constraints in deep learning models?
 
 <br/>
 
@@ -42,7 +42,7 @@ Moreover, I helped in organizing the [Nordic Probabilistic AI School 2022](https
 
 <br/>
 
-### Selected References
+### Selected References (Outdated)
 
 1. L. Loconte et al. [Subtractive Mixture Models via Squaring: Representation and Learning](https://arxiv.org/abs/2310.00724), <i>International Conference on Learning Representations (ICLR)</i>, 2024.
 2. Z. Yu, <u>M. Trapp</u>, K. Kersting. [Characteristic Circuits](https://nips.cc/virtual/2023/poster/72798), <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2023.
