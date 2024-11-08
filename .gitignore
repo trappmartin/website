@@ -3,6 +3,7 @@
 /public/
 /resources/_gen/
 /assets/jsconfig.json
+.quarto/
 
 # Temporary lock file while building
 /.hugo_build.lock
