@@ -1,8 +1,26 @@
 papers:
 
+  - year: 2025
+    publications:
+    - title: Flatness Improves Backbone Generalisation in Few-shot Classification
+      authors: R. Li, M. Trapp, M. Klasson, A. Solin
+      venue: IEEE/CVF Winter Conference on Applications of Computer Vision
+      conference: WACV
+      pdf: https://arxiv.org/abs/2404.07696
+    
   - year: 2024
     publications:
-
+    
+    - title: Posterior Inferred, Now What? Streamlining Prediction in Bayesian Deep Learning
+      authors: R. Li, M. Klasson, A. Solin, M. Trapp
+      venue: NeurIPS Workshop on Bayesian Decision-making and Uncertainty
+      workshop: BDU
+    
+    - title: Probabilistic Active Few-Shot Learning in Vision-Language Models
+      authors: A. Baumann, M. Klasson, R. Li, A. Solin, M. Trapp
+      venue: NeurIPS Workshop on Bayesian Decision-making and Uncertainty
+      workshop: BDU
+      
     - title: On Hardware-efficient Inference in Probabilistic Circuits
       authors: L. Yao, M. Trapp, J. Leslin, G. Singh, P. Zhang, K. Periasamy, M. Andraud
       venue: Conference on Uncertainty in Artificial Intelligence
