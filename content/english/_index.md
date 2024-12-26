@@ -3,6 +3,17 @@ author = "Martin Trapp"
 mainSections = [""]
 +++
 
+<div class="alert alert-primary" role="alert">
+<div class="mx-auto" style="width: 200px;">
+<b>I am on the job market!</b>
+</div>
+</br>
+If you look for someone with experties in <b>probabilistic machine learning</b>, <b>uncertainty quantification</b>, or <b>reliable and trustworthy AI</b> then get in touch. 
+I am primarily looking for positions where I can make a difference, either in <b>academia (group leader)</b> or <b>industry (research scientist or group leader)</b>.
+
+You can find my CV <a href="cv.pdf">here</a>.
+</div>
+
 ### News
 - Together with colleagues, I co-organized the 3rd Workshop on [Uncertainty Quantification for Computer Vision](https://uncertainty-cv.github.io/2024/) at ECCV 2024!
 - Together with colleagues, I co-organized the 7th Workshop on [Tractable Probabilistic Modeling](https://tractable-probabilistic-modeling.github.io/tpm2024/) at UAI 2024!
@@ -43,7 +54,7 @@ Moreover, I helped in organizing the [Nordic Probabilistic AI School 2022](https
 
 <br/>
 
-### Selected References (Possibly Outdated)
+### Selected References 
 
 1. R. Li et al. Posterior Inferred, Now What? Streamlining Prediction in Bayesian Deep Learning, <i>NeurIPS workshop on Bayesian Decision-making and Uncertainty</i>, 2024.
 2. A. Baumann et al. Probabilistic Active Few-Shot Learning in Vision-Language Models, <i>NeurIPS workshops on Bayesian Decision-making and Uncertainty</i>, 2024.
